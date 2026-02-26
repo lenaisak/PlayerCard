@@ -31,3 +31,7 @@
 
 <img width="928" height="599" alt="image" src="https://github.com/user-attachments/assets/da8dac86-20b6-4508-a67a-36039bfeabf7" />
 ![](https://img.freepik.com/premium-vector/soft-pink-clouds-cutout-flat-vector-illustration_674398-2928.jpg?semt=ais_hybrid&w=740&q=80)
+
+| Заголовок 1 | Заголовок 2 | Заголовок 3 | Заголовок 4 |
+|:------------|:-----------:|------------:|-------------|
+
